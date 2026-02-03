@@ -72,27 +72,6 @@ The program uses a shell-like interface to interact with the linked list. You ca
 - **Reverse List**:
   The list is automatically reversed when sorting by type.
 
-## File Structure
-
-- **`include/my.h`**: Header file containing all function prototypes and struct definitions.
-- **Source Files**:
-  - `add.c`: Functions to add nodes to the linked list.
-  - `del.c`: Functions to delete nodes from the linked list.
-  - `sort.c`: Functions to sort the linked list.
-  - `disp.c`: Functions to display the linked list.
-  - Utility files like `my_strlen.c`, `my_strcmp.c`, etc., for custom implementations of common functions.
-- **`Makefile`**: Build automation file to compile the project.
-
-## Contributors
-
-- **COMBE--BRACCIALE Nielsen**: Developer and maintainer of the project.
-
-- **ABERKANE Mathys**: Developer and maintainer of the project.
-
-## License
-
-This project is part of the EPITECH curriculum and is intended for educational purposes.
-
 ## Notes
 
 - Ensure all dependencies (like `ncurses`) are installed before compiling.
